@@ -1,6 +1,7 @@
 # Promotional HTML Email
 
 This project was created in order to practice my skills with HTML, CSS.
+Tested with PutsMail (Outlook 365, Yahoo mail, Gmail)
 
 
 ## Tech Stack
@@ -12,7 +13,7 @@ https://promo-html-email-agsfa1iqp-dnuns.vercel.app
   
 ## Demo
 
-![portfolio desktop screenshot](readme_resources/project-gif.gif)
+![portfolio desktop screenshot](resources/project-gif.gif)
   
 ## Screenshots
 
