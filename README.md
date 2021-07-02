@@ -13,7 +13,7 @@ https://promo-html-email-agsfa1iqp-dnuns.vercel.app
   
 ## Demo
 
-![portfolio desktop screenshot](readme_resources/project-gif.gif)
+![portfolio desktop screenshot](esources/project-gif.gif)
   
 ## Screenshots
 
