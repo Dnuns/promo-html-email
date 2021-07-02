@@ -13,19 +13,28 @@ https://promo-html-email-agsfa1iqp-dnuns.vercel.app
   
 ## Demo
 
-![portfolio desktop screenshot](resources/project.mp4)
+![promotional html email demo](resources/project-gif.gif)
   
 ## Screenshots
 
 ### Desktop
+
 ![promotional html email screenshot](resources/3-col.jpeg)
+
 ---
+
 ### Mobile
+
 ![promotional html email screenshot](resources/2-col.jpeg)
+
 ---
+
 ### Mobile
+
 ![promotional html email screenshot](resources/1-col.jpeg)
+
 ---  
+
 ## Author
 
 - [David Nunes](https://www.github.com/Dnuns)
