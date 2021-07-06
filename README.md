@@ -1,12 +1,8 @@
 # Promotional HTML Email
 
 This project was created in order to practice my skills with HTML, CSS.
-Tested with free PutsMail service (Outlook 365, Yahoo mail, Gmail)
 
-
-## Note
-
-Not tested in all devices and clients
+Tested with testi@
 
 
 ## Tech Stack
