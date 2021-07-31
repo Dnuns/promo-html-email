@@ -35,7 +35,15 @@ https://promo-html-email-agsfa1iqp-dnuns.vercel.app
 
 ---
 
-### Mobile
+![promotional html email screenshot](resources/1-col.jpeg)
+
+---
+
+![promotional html email screenshot](resources/mobile-clients.jpg)
+
+---
+
+### Web
 
 ![promotional html email screenshot](resources/1-col.jpeg)
 
