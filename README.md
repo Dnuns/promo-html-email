@@ -20,8 +20,12 @@ https://promo-html-email-agsfa1iqp-dnuns.vercel.app
 
 ### Desktop
 
-![promotional html email screenshot](resources/3-col.jpeg)
 ![promotional html email screenshot](resources/desktop-clients.jpg)
+
+---
+
+![promotional html email screenshot](resources/3-col.jpeg)
+
 
 ---
 
